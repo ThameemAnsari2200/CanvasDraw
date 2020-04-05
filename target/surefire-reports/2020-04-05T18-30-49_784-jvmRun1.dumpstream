@@ -1,0 +1,12 @@
+# Created at 2020-04-05T18:30:55.196
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '3,1,windows-1252,-----\0D\0A|   |\0D\0A|   |\0D\0A|   |\0D\0A-----\0D\0A'.
+
+# Created at 2020-04-05T18:30:55.745
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '3,1,windows-1252,-----\0D\0A|   |\0D\0A|   |\0D\0A|   |\0D\0A-----\0D\0A'.
+
+# Created at 2020-04-05T18:30:56.190
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '3,1,windows-1252,------\0D\0A|    |\0D\0A|    |\0D\0A|    |\0D\0A|    |\0D\0A|    |\0D\0A------\0D\0A'.
+
+# Created at 2020-04-05T18:30:56.984
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '3,1,windows-1252,------\0D\0A|    |\0D\0A|    |\0D\0A|    |\0D\0A|    |\0D\0A------\0D\0A'.
+
