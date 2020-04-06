@@ -1,4 +1,4 @@
-# CanvasDraw
+# Canvas Drawing
 
 **Build the Application:**
 Navigate to the project root directory: $ mvn clean install
